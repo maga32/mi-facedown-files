@@ -1,0 +1,13 @@
+{
+  "code": 200,
+  "result": {
+    "device_config": {
+      "name": "nomore",
+      "model": "nomore.result.here",
+      "iconWidth": 432,
+      "iconHeight": 514,
+      "shape": 2
+    },
+    "feed_watchface_list": []
+  }
+}
