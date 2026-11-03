@@ -1,0 +1,39 @@
+{
+  "code": 200,
+  "result": {
+    "device_config": {
+      "name": "n67cn",
+      "model": "miwear.watch.n67cn",
+      "iconWidth": 336,
+      "iconHeight": 480,
+      "shape": 2,
+      "maxIndex": 611022249
+    },
+    "feed_watchface_list": [
+      {
+        "id": "611022305",
+        "display_name": "QuickReply",
+        "tabName": "quickApp",
+        "icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/lchz.watch.n65/611022305_img.png",
+        "aod_icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/lchz.watch.n65/611022305_aod.png",
+        "introduction": "*MiFaceDown앱 0.9.6버전 이상과 연동하여 사용하실 수 있습니다.\n\n워치로 빠른답장을 보낼 수 있는 앱입니다.\n앱별 알림들을 모아보고 답장이 가능하며 간단한 이미지도 지원합니다.\n\n자세한내용은 아래를 참고해주세요.\nhttps://github.com/maga32/RedmiWatch-QuickReply",
+        "publish_name": "룽즈",
+        "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/lchz.watch.n65/611022305.rpk",
+        "price": 0,
+        "download_count": 476
+      },
+      {
+        "id": "611022249",
+        "display_name": "계산기",
+        "tabName": "quickApp",
+        "icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/lchz.watch.n65/611022249_img.png",
+        "aod_icon": "",
+        "introduction": "레드미워치4~6용 계산기앱입니다.",
+        "publish_name": "룽즈",
+        "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/lchz.watch.n65/611022249.rpk",
+        "price": 0,
+        "download_count": 476
+      }
+    ]
+  }
+}
