@@ -11,6 +11,18 @@
     },
     "feed_watchface_list": [
       {
+        "id": "611042151",
+        "display_name": "Punto",
+        "tabName": "watchface",
+        "icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/611042151_img.png",
+        "aod_icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/611042151_aod.png",
+        "introduction": "Punto v1.1",
+        "publish_name": "청소용브러쉬",
+        "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/611042151.bin",
+        "price": 0,
+        "download_count": 0
+      },
+      {
         "id": "611041945",
         "display_name": "TAG Heuer Monaco",
         "tabName": "watchface",
@@ -20,7 +32,7 @@
         "publish_name": "청소용브러쉬",
         "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/611041945.bin",
         "price": 0,
-        "download_count": 0
+        "download_count": 1
       },
       {
         "id": "611022305",
@@ -68,7 +80,7 @@
         "publish_name": "룽즈",
         "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/610140741.bin",
         "price": 0,
-        "download_count": 482
+        "download_count": 483
       },
       {
         "id": "610271445",
