@@ -22,18 +22,6 @@
         "download_count": 0
       },
       {
-        "id": "611042102",
-        "display_name": "test2",
-        "tabName": "watchface",
-        "icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/hmpace.bracelet.v5/611042102_img.jpg",
-        "aod_icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/hmpace.bracelet.v5/611042102_aod.jpg",
-        "introduction": "test2",
-        "publish_name": "tester",
-        "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/hmpace.bracelet.v5/611042102.bin",
-        "price": 0,
-        "download_count": 0
-      },
-      {
         "id": "611042101",
         "display_name": "test",
         "tabName": "watchface",
