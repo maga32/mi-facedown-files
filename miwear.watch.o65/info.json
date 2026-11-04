@@ -11,6 +11,18 @@
     },
     "feed_watchface_list": [
       {
+        "id": "611041937",
+        "display_name": "TAG Heuer Monaco",
+        "tabName": "watchface",
+        "icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.o65/611041937_img.png",
+        "aod_icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.o65/611041937_aod.png",
+        "introduction": "TAG Heuer Monaco Chronograph X Gulf Watch",
+        "publish_name": "청소용브러쉬",
+        "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.o65/611041937.bin",
+        "price": 0,
+        "download_count": 0
+      },
+      {
         "id": "611022305",
         "display_name": "QuickReply",
         "tabName": "quickApp",
