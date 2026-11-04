@@ -11,18 +11,6 @@
     },
     "feed_watchface_list": [
       {
-        "id": "611042112",
-        "display_name": "테스트입니다.",
-        "tabName": "watchface",
-        "icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/611042112_img.jpg",
-        "aod_icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/611042112_aod.jpg",
-        "introduction": "Test is test.",
-        "publish_name": "tester",
-        "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/611042112.bin",
-        "price": 0,
-        "download_count": 0
-      },
-      {
         "id": "611041945",
         "display_name": "TAG Heuer Monaco",
         "tabName": "watchface",
