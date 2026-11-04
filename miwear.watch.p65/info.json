@@ -11,6 +11,18 @@
     },
     "feed_watchface_list": [
       {
+        "id": "611042218",
+        "display_name": "Makita",
+        "tabName": "watchface",
+        "icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/611042218_img.png",
+        "aod_icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/611042218_aod.png",
+        "introduction": "마끼다 워치페이스",
+        "publish_name": "청소용브러쉬",
+        "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/611042218.bin",
+        "price": 0,
+        "download_count": 0
+      },
+      {
         "id": "611042201",
         "display_name": "Electricity Meter",
         "tabName": "watchface",
@@ -20,7 +32,7 @@
         "publish_name": "청소용브러쉬",
         "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/611042201.bin",
         "price": 0,
-        "download_count": 0
+        "download_count": 1
       },
       {
         "id": "611042151",
