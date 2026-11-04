@@ -11,6 +11,18 @@
     },
     "feed_watchface_list": [
       {
+        "id": "611042159",
+        "display_name": "Punto",
+        "tabName": "watchface",
+        "icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.o65/611042159_img.png",
+        "aod_icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.o65/611042159_aod.png",
+        "introduction": "Punto v1.1",
+        "publish_name": "청소용브러쉬",
+        "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.o65/611042159.bin",
+        "price": 0,
+        "download_count": 0
+      },
+      {
         "id": "611041938",
         "display_name": "TAG Heuer Monaco",
         "tabName": "watchface",
