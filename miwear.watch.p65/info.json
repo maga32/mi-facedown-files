@@ -11,6 +11,18 @@
     },
     "feed_watchface_list": [
       {
+        "id": "611042236",
+        "display_name": "Galaxy",
+        "tabName": "watchface",
+        "icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/611042236_img.png",
+        "aod_icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/611042236_aod.png",
+        "introduction": "갤럭시워치페이스",
+        "publish_name": "청소용브러쉬",
+        "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/611042236.bin",
+        "price": 0,
+        "download_count": 0
+      },
+      {
         "id": "611042218",
         "display_name": "Makita",
         "tabName": "watchface",
