@@ -8,19 +8,6 @@
       "iconHeight": 294,
       "shape": 2
     },
-    "feed_watchface_list": [
-      {
-        "id": "611042048",
-        "display_name": "test",
-        "tabName": "watchface",
-        "icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/hmpace.bracelet.v5/611042048_img.jpg",
-        "aod_icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/hmpace.bracelet.v5/611042048_aod.jpg",
-        "introduction": "test입니다.",
-        "publish_name": "tester",
-        "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/hmpace.bracelet.v5/611042048.bin",
-        "price": 0,
-        "download_count": 0
-      }
-    ]
+    "feed_watchface_list": []
   }
 }
