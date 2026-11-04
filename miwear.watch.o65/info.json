@@ -11,6 +11,18 @@
     },
     "feed_watchface_list": [
       {
+        "id": "611042202",
+        "display_name": "Electricity Meter",
+        "tabName": "watchface",
+        "icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.o65/611042202_img.png",
+        "aod_icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.o65/611042202_aod.png",
+        "introduction": "전력량계 워치페이스",
+        "publish_name": "청소용브러쉬",
+        "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.o65/611042202.bin",
+        "price": 0,
+        "download_count": 0
+      },
+      {
         "id": "611042159",
         "display_name": "Punto",
         "tabName": "watchface",
