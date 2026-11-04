@@ -10,6 +10,18 @@
     },
     "feed_watchface_list": [
       {
+        "id": "611042103",
+        "display_name": "test3",
+        "tabName": "watchface",
+        "icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/hmpace.bracelet.v5/611042103_img.jpg",
+        "aod_icon": "",
+        "introduction": "test3",
+        "publish_name": "tester",
+        "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/hmpace.bracelet.v5/611042103.bin",
+        "price": 0,
+        "download_count": 0
+      },
+      {
         "id": "611042102",
         "display_name": "test2",
         "tabName": "watchface",
