@@ -32,7 +32,7 @@
         "publish_name": "청소용브러쉬",
         "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/611042236.bin",
         "price": 0,
-        "download_count": 12
+        "download_count": 13
       },
       {
         "id": "611042218",
@@ -68,7 +68,7 @@
         "publish_name": "청소용브러쉬",
         "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/611042151.bin",
         "price": 0,
-        "download_count": 7
+        "download_count": 10
       },
       {
         "id": "611022305",
@@ -80,7 +80,7 @@
         "publish_name": "룽즈",
         "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/lchz.watch.n65/611022305.rpk",
         "price": 0,
-        "download_count": 13
+        "download_count": 15
       },
       {
         "id": "610241925",
@@ -92,7 +92,7 @@
         "publish_name": "룽즈",
         "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/610241925.bin",
         "price": 0,
-        "download_count": 6
+        "download_count": 7
       },
       {
         "id": "610140737",
@@ -104,7 +104,7 @@
         "publish_name": "룽즈",
         "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/610140737.bin",
         "price": 0,
-        "download_count": 25
+        "download_count": 29
       },
       {
         "id": "610140741",
@@ -116,7 +116,7 @@
         "publish_name": "룽즈",
         "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/610140741.bin",
         "price": 0,
-        "download_count": 22
+        "download_count": 26
       },
       {
         "id": "610271445",
@@ -164,7 +164,7 @@
         "publish_name": "룽즈",
         "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/199112010.bin",
         "price": 0,
-        "download_count": 6
+        "download_count": 7
       }
     ]
   }
