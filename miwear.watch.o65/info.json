@@ -20,7 +20,7 @@
         "publish_name": "청소용브러쉬",
         "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.o65/611042235.bin",
         "price": 0,
-        "download_count": 1
+        "download_count": 2
       },
       {
         "id": "611042202",
@@ -56,7 +56,7 @@
         "publish_name": "청소용브러쉬",
         "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.o65/611041938.bin",
         "price": 0,
-        "download_count": 0
+        "download_count": 1
       },
       {
         "id": "611022305",
@@ -80,7 +80,7 @@
         "publish_name": "룽즈",
         "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/lchz.watch.n65/611022249.rpk",
         "price": 0,
-        "download_count": 1
+        "download_count": 3
       }
     ]
   }
