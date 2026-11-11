@@ -32,7 +32,7 @@
         "publish_name": "청소용브러쉬",
         "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/611042236.bin",
         "price": 0,
-        "download_count": 33
+        "download_count": 35
       },
       {
         "id": "611042218",
@@ -80,7 +80,7 @@
         "publish_name": "룽즈",
         "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/lchz.watch.n65/611022305.rpk",
         "price": 0,
-        "download_count": 42
+        "download_count": 43
       },
       {
         "id": "610241925",
@@ -116,7 +116,7 @@
         "publish_name": "룽즈",
         "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/610140741.bin",
         "price": 0,
-        "download_count": 49
+        "download_count": 50
       },
       {
         "id": "610271445",
@@ -128,7 +128,7 @@
         "publish_name": "룽즈",
         "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/610271445.rpk",
         "price": 0,
-        "download_count": 14
+        "download_count": 15
       },
       {
         "id": "611022249",
@@ -140,7 +140,7 @@
         "publish_name": "룽즈",
         "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/lchz.watch.n65/611022249.rpk",
         "price": 0,
-        "download_count": 19
+        "download_count": 20
       },
       {
         "id": "610271048",
@@ -152,7 +152,7 @@
         "publish_name": "룽즈",
         "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/610271048.rpk",
         "price": 0,
-        "download_count": 18
+        "download_count": 19
       },
       {
         "id": "199112010",
@@ -164,7 +164,7 @@
         "publish_name": "룽즈",
         "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/199112010.bin",
         "price": 0,
-        "download_count": 16
+        "download_count": 17
       }
     ]
   }
