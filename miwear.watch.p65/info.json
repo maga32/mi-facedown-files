@@ -104,7 +104,7 @@
         "publish_name": "룽즈",
         "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/610140737.bin",
         "price": 0,
-        "download_count": 60
+        "download_count": 63
       },
       {
         "id": "610140741",
@@ -116,7 +116,7 @@
         "publish_name": "룽즈",
         "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/610140741.bin",
         "price": 0,
-        "download_count": 58
+        "download_count": 61
       },
       {
         "id": "610271445",
@@ -140,7 +140,7 @@
         "publish_name": "룽즈",
         "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/lchz.watch.n65/611022249.rpk",
         "price": 0,
-        "download_count": 24
+        "download_count": 25
       },
       {
         "id": "610271048",
@@ -164,7 +164,7 @@
         "publish_name": "룽즈",
         "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/199112010.bin",
         "price": 0,
-        "download_count": 17
+        "download_count": 18
       }
     ]
   }
