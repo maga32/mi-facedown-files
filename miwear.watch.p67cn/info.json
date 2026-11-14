@@ -1,0 +1,26 @@
+{
+  "code": 200,
+  "result": {
+    "device_config": {
+      "name": "miwear.watch.p67cn",
+      "model": "miwear.watch.p67cn",
+      "iconWidth": 336,
+      "iconHeight": 480,
+      "shape": 2
+    },
+    "feed_watchface_list": [
+      {
+        "id": "611142226",
+        "display_name": "개인용",
+        "tabName": "watchface",
+        "icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p67cn/611142226_img.png",
+        "aod_icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p67cn/611142226_aod.png",
+        "introduction": "",
+        "publish_name": "kty787",
+        "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p67cn/611142226.bin",
+        "price": 0,
+        "download_count": 0
+      }
+    ]
+  }
+}
