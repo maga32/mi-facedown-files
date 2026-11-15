@@ -11,6 +11,18 @@
     },
     "feed_watchface_list": [
       {
+        "id": "611151925",
+        "display_name": "염주앱",
+        "tabName": "quickApp",
+        "icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/611151925_img.png",
+        "aod_icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/611151925_aod.png",
+        "introduction": "염주를 굴리며 마음을 가다듬는 앱이에요. 화면을 쓸어 넘기면 염주가 부드럽게 넘어가고 횟수가 차곡차곡 쌓여요. 목표 횟수를 채우면 진동으로 알려줘서 화면을 보지 않아도 집중할 수 있어요. 나무, 옥 같은 염주 재질과 목표 횟수는 설정에서 고를 수 있어요. 출퇴근길이나 잠들기 전, 잠깐의 명상이 필요할 때 써보세요.",
+        "publish_name": "조단스",
+        "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/611151925.rpk",
+        "price": 0,
+        "download_count": 0
+      },
+      {
         "id": "611041945",
         "display_name": "TAG Heuer Monaco",
         "tabName": "watchface",
@@ -80,7 +92,7 @@
         "publish_name": "룽즈",
         "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/lchz.watch.n65/611022305.rpk",
         "price": 0,
-        "download_count": 58
+        "download_count": 59
       },
       {
         "id": "610241925",
@@ -116,7 +128,7 @@
         "publish_name": "룽즈",
         "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/610140741.bin",
         "price": 0,
-        "download_count": 62
+        "download_count": 63
       },
       {
         "id": "610271445",
