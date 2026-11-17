@@ -11,6 +11,18 @@
     },
     "feed_watchface_list": [
       {
+        "id": "611171722",
+        "display_name": "DailyBrief",
+        "tabName": "watchface",
+        "icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/611171722_img.png",
+        "aod_icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/611171722_aod.png",
+        "introduction": "",
+        "publish_name": "봉사",
+        "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/611171722.bin",
+        "price": 0,
+        "download_count": 0
+      },
+      {
         "id": "611171516",
         "display_name": "MonolineSport",
         "tabName": "watchface",
