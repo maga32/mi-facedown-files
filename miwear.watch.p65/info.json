@@ -11,6 +11,18 @@
     },
     "feed_watchface_list": [
       {
+        "id": "611171516",
+        "display_name": "MonolineSport",
+        "tabName": "watchface",
+        "icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/611171516_img.png",
+        "aod_icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/611171516_aod.png",
+        "introduction": "■ 표시 정보\n- 시침, 분침, 초침\n- 배터리 %\n- 날짜\n- 칼로리(KCAL)\n- 걸음 수(STEPS)\n\n■ 터치 바로가기\n- 걸음 수 → 활동\n- 칼로리 → 운동\n- 날짜 → 캘린더",
+        "publish_name": "봉사",
+        "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/611171516.bin",
+        "price": 0,
+        "download_count": 0
+      },
+      {
         "id": "611151925",
         "display_name": "염주앱",
         "tabName": "quickApp",
@@ -116,7 +128,7 @@
         "publish_name": "룽즈",
         "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/610140737.bin",
         "price": 0,
-        "download_count": 66
+        "download_count": 67
       },
       {
         "id": "610140741",
