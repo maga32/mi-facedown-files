@@ -11,6 +11,18 @@
     },
     "feed_watchface_list": [
       {
+        "id": "611222220",
+        "display_name": "WatchMouse",
+        "tabName": "quickApp",
+        "icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/lchz.watch.n65/611222220_img.gif",
+        "aod_icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/lchz.watch.n65/611222220_aod.png",
+        "introduction": "* MiFaceDown앱 0.9.13버전 이상과 연동하여 사용하실 수 있습니다.\n\n워치로 휴대폰 컨트롤이 가능한 앱입니다.\n- Swipe 모드 : 숏폼영상 시청 , 독서 등에 간편한 조작이 가능합니다.\n- Mouse 모드 : 워치를 블루투스 마우스처럼 사용 가능합니다.\n\n자세한내용은 아래를 참고해주세요.\nhttps://github.com/maga32/RedmiWatch-QuickApps/tree/main/RedmiWatch-WatchMouse",
+        "publish_name": "룽즈",
+        "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/lchz.watch.n65/611222220.rpk",
+        "price": 0,
+        "download_count": 0
+      },
+      {
         "id": "611171722",
         "display_name": "DailyBrief",
         "tabName": "watchface",
