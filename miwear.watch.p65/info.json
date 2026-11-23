@@ -16,11 +16,11 @@
         "tabName": "watchface",
         "icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/611240546_img.png",
         "aod_icon": "",
-        "introduction": "여러 세계 시계를 동시에 볼 수 있는 워치페이스입니다.\n\n59개 국가 - 102개 도시의 시간을 동시에 확인할 수 있으며\n섬머타임도 구현되어있습니다.\n\n+, - 버튼으로 원하는 최대 3개까지 지정 가능합니다.",
+        "introduction": "- 여러 세계 시계를 동시에 볼 수 있는 워치페이스입니다.\n\n* 59개 국가 - 102개 도시의 시간을 확인할 수 있으며\n섬머타임도 구현되어있습니다.\n\n* [+], [-] 버튼으로 원하는 도시를 최대 3개까지 지정 가능합니다.",
         "publish_name": "룽즈",
         "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/611240546.bin",
         "price": 0,
-        "download_count": 0
+        "download_count": 1
       },
       {
         "id": "611231950",
@@ -32,7 +32,7 @@
         "publish_name": "청소용브러쉬",
         "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/611231950.bin",
         "price": 0,
-        "download_count": 1
+        "download_count": 2
       },
       {
         "id": "611222220",
