@@ -12,7 +12,7 @@
     "feed_watchface_list": [
       {
         "id": "611231950",
-        "display_name": "Windows Notepad",
+        "display_name": "윈도우11 메모장",
         "tabName": "watchface",
         "icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/611231950_img.webp",
         "aod_icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p65/611231950_aod.png",
