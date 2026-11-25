@@ -11,11 +11,11 @@
     "feed_watchface_list": [
       {
         "id": "611251441",
-        "display_name": "car",
+        "display_name": "carti",
         "tabName": "watchface",
         "icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p67cn/611251441_img.png",
         "aod_icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p67cn/611251441_aod.png",
-        "introduction": "car",
+        "introduction": "carti",
         "publish_name": "hyunyong",
         "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p67cn/611251441.bin",
         "price": 0,
