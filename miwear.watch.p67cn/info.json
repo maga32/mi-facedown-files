@@ -10,6 +10,18 @@
     },
     "feed_watchface_list": [
       {
+        "id": "611252235",
+        "display_name": "carti blue",
+        "tabName": "watchface",
+        "icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p67cn/611252235_img.png",
+        "aod_icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p67cn/611252235_aod.png",
+        "introduction": "carti blue",
+        "publish_name": "hyunyong",
+        "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p67cn/611252235.bin",
+        "price": 0,
+        "download_count": 0
+      },
+      {
         "id": "611252234",
         "display_name": "carti black",
         "tabName": "watchface",
