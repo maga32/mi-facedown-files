@@ -10,6 +10,18 @@
     },
     "feed_watchface_list": [
       {
+        "id": "611251505",
+        "display_name": "final",
+        "tabName": "watchface",
+        "icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p67cn/611251505_img.png",
+        "aod_icon": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p67cn/611251505_aod.png",
+        "introduction": "final",
+        "publish_name": "hyunyong",
+        "config_file": "https://raw.githubusercontent.com/maga32/mi-facedown-files/main/miwear.watch.p67cn/611251505.bin",
+        "price": 0,
+        "download_count": 0
+      },
+      {
         "id": "611251441",
         "display_name": "carti",
         "tabName": "watchface",
